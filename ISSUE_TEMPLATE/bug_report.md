@@ -18,10 +18,14 @@ labels: bug
 
 **Environment**
 
-- Repo / package + version or commit:
-- Network: mainnet / testnet
-- Node / Bun version:
+- Surface: CLI / SDK / local MCP / hosted MCP / merchant middleware / facilitator
+- Package and version (e.g. `@ftptech/canton-agent-wallet@2.4.0`) or commit:
+- Facilitator URL:
+- Network (e.g. `canton:mainnet`):
+- Node version:
+- Error or reason code (e.g. `invalidReason`, `errorReason`):
+- Party ID or settlement `updateId`, if any:
 
 **Logs**
 
-<!-- Paste relevant logs or the on-ledger updateId. REDACT any keys, tokens, or .env values. -->
+<!-- Paste relevant logs. REDACT any keys, tokens, or .env values. -->
