@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Security report
+    url: https://github.com/FTP-Tech-LLC/.github/blob/main/SECURITY.md
+    about: Do not open a public issue. Report vulnerabilities privately as described here.
+  - name: Docs
+    url: https://x402-docs.ftptech.xyz
+    about: Guides for payers, merchants and agents.

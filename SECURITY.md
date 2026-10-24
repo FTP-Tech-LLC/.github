@@ -10,14 +10,10 @@ fixes.
 
 **Please do not open a public issue for security problems.**
 
-Report suspected vulnerabilities privately, one of two ways:
+Report suspected vulnerabilities privately by email: **solodan@ftptech.xyz**
 
-- **GitHub** — use *Security → Advisories → Report a vulnerability* on the affected
-  repository (private vulnerability reporting is enabled), **or**
-- **Email** — solodan@ftptech.xyz
-
-Please include steps to reproduce, affected version/commit, and the impact you observed.
-We aim to acknowledge within **5 business days** and will coordinate a fix and
+Please include steps to reproduce, the affected package and version (or commit), and the
+impact you observed. We aim to acknowledge within **5 business days** and will coordinate a fix and
 coordinated disclosure with you.
 
 For non-security bugs, open a normal issue in the relevant repository.
